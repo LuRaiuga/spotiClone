@@ -1,2 +1,3 @@
-# jsProject
- A JS/JQuery project just for fun
+# spotiClone
+
+ A copy of spotify layout. Just for educational purpose.
